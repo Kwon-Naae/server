@@ -1,0 +1,101 @@
+id name calorie korean 
+1 rice 300 쌀밥
+2 eels-on-rice 672 장어덮밥
+3 pilaf 359 필라프
+4 chicken-n-egg-on-rice 400 치킨계란볶음밥
+5 pork-cutlet-on-rice 678 돈까스 덮밥
+6 beef-curry 111 소고기카레
+7 sushi 179 초밥
+8 chicken-rice 600 치킨김치볶음밥
+9 fried-rice 163 볶음밥
+10 tempura-bowl 616 텐동
+11 bibimbap 586 비빔밥
+12 toast 313 토스트
+13 croissant 406 크로와상
+14 roll-bread 310 롤빵
+15 raisin-bread 274 건포도식빵
+16 chip-butty 402 감자칩샌드위치
+17 hamburger 295 햄버거
+18 pizza 266 피자
+19 sandwiches 241 샌드위치
+20 udon-noodle 702 우동
+21 tempura-udon 802 튀김우동
+22 soba-noodle 99 소바
+23 ramen-noodle 436 라멘
+24 beef-noodle 575 우육탕면
+25 tensin-noodle 318 계란국수
+26 fried-noodle 288 유탕면
+27 spaghetti 1578 스파게티
+28 Japanese-style-pancake 688 일본식팬케이크 
+29 takoyaki 350 타코야끼
+30 gratin 132 그라탕
+31 sauteed-vegetables 98 볶은야채
+32 croquette 157 크로켓
+33 grilled-eggplant 85 구운 가지
+34 sauteed-spinach 54 시금치무침
+35 vegetable-tempura 101 채소튀김
+36 miso-soup 80 미소된장국
+37 potage 85 수프
+38 sausage 280 소시지 
+39 oden 139 어묵
+40 omelet 173 오믈렛 
+41 ganmodoki 85 해물두부어묵
+42 jiaozi 280 교자
+43 stew 216 스튜
+44 teriyaki-grilled-fish 227 데리야끼생선구이
+45 fried-fish 267 생선튀김
+46 grilled-salmon 171 연어구이
+47 salmon-meuniere 200 연어 뫼니에르
+48 sashimi 191 사시미
+49 grilled-pacific-saury- 180 꽁치구이
+50 sukiyaki 165 스키야키
+51 sweet-and-sour-pork 450 탕수육 
+52 lightly-roasted-fish 142 생선구이
+53 steamed-egg-hotchpotch 168 계란찜
+54 tempura 251 튀김
+55 fried-chicken 900 치킨
+56 sirloin-cutlet 574 돈까스
+57 nanbanzuke 250 생선야채절임
+58 boiled-fish 250 생선절임
+59 seasoned-beef-with-potatoes 133 고기감자절임
+60 hambarg-steak 561 함박스테이크
+61 beef-steak 686 스테이크
+62 dried-fish 132 말린생선
+63 ginger-pork-saute 475 돼지불백
+64 spicy-chili-flavored-tofu 290 마파두부
+65 yakitori 177 닭꼬치
+66 cabbage-roll 300 양배추롤
+67 rolled-omelet 336 계란말이 134
+68 egg-sunny-side-up 89 계란후라이 194
+69 fermented-soybeans 103 낫토 212
+70 cold-tofu 62 냉두부 47
+71 egg-roll 223 춘권 165
+72 chilled-noodle 650 냉장면 250          
+73 stir-fried-beef-and-peppers 270 고추잡채 180
+74 simmered-pork 449 돼지고기조림 180
+75 boiled-chicken-and-vegetables 385 닭고기조림 193
+76 sashimi-bowl 191 회 128
+77 sushi-bowl 465 회덮밥 116
+78 fish-shaped-pancake-with-bean-jam 110 붕어빵 221
+79 shrimp-with-chill-source 710 칠리새우 177
+80 roast-chicken 709 구운치킨 190
+81 steamed-meat-dumpling 745 찐만두 186 
+82 omelet-with-fried-rice 730 오므라이스 182
+83 cutlet-curry 537 돈까스카레 180             
+84 spaghetti-meat-sauce 378 미트볼스파게티 153
+85 fried-shrimp 350 새우튀김 145
+86 potato-salad 125 감자샐러드 150
+87 green-salad 184 야채샐러드 98
+88 macaroni-salad 269 마카로니샐러드 202
+89 Japanese-tofu-and-vegetable-chowder 128 된장찌개 86
+90 pork-miso-soup 128 차돌된장찌개 115
+91 chinese-soup 237 중국식국 135
+92 beef-bowl 440 쇠고기덮밥 147
+93 kinpira-style-sauteed-burdock 135 우엉조림 90
+94 rice-ball 414 주먹밥 188
+95 pizza-toast 510 피자토스트 255
+96 dipping-noodles 499 라멘 125
+97 hot-dog 440 핫도그 350
+98 french-fries 229 감자튀김 156
+99 mixed-rice 586 비빔밥 146
+100 goya-chanpuru 160 오키나와식음식 120
